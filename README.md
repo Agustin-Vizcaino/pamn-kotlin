@@ -1,0 +1,4 @@
+- Lo primero de lo que me he percatado es de que Gradle compila increíblemente despacio y consume una cantidad de recursos impresionante
+- Lo segundo es que el entorno emula un sistema Android entero para probar la aplicación, en lugar de un kernel básico- incluyendo interfaz, aplicaciones por defecto (como Google Chrome...), animaciones... Aún no he descubierto si esto se puede evitar con una opción de configuración, pero me ha dejado atónito
+- 
+- 
