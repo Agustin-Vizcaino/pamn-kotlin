@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PAMN_KotlinJC_testTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Androidd",
+                        name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
